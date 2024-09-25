@@ -9,4 +9,4 @@ Course - MCA
 
 Semester - 1st
 
-Date - 25 september, 2024
+Date - 25 September, 2024
